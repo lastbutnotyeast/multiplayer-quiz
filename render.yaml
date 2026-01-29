@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: multiplayer-quiz
+    env: node
+    plan: free
+    region: oregon
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 18.17.0
+    autoDeploy: true
