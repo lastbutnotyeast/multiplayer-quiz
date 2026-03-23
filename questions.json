@@ -1,0 +1,538 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "quote": "Der Mensch ist ein Tier, das Werkzeuge macht – aber auch eines, das sich selbst als Werkzeug benutzt.",
+      "options": ["Karl Marx", "Friedrich Nietzsche", "Claude Lévi-Strauss", "Hannah Arendt"],
+      "correctAnswer": "Karl Marx",
+      "explanation": "Dieses Zitat stammt aus dem „Kapital“ (Band 1, Kapitel 7), wo Marx über die Arbeit als spezifisch menschliche Tätigkeit schreibt. Er betont, dass der Mensch nicht nur Werkzeuge gebraucht, sondern sich selbst *als bewusstes Instrument* seiner eigenen Tätigkeit begreift – im Gegensatz zum Tier, das instinktiv handelt. Der Satz klingt fast maschinell, ist aber Teil einer tiefen philosophischen Anthropologie der Arbeit."
+    },
+    {
+      "id": 2,
+      "quote": "Die Frau ist das Sammelbecken aller pathologischen Perversionen.",
+      "options": ["Otto Weininger", "Sigmund Freud", "Michel Foucault", "Simone de Beauvoir"],
+      "correctAnswer": "Otto Weininger",
+      "explanation": "Dieser schockierende Satz stammt aus Weiningers 1903 erschienenem Buch „Geschlecht und Charakter“. Weininger behauptete, Weiblichkeit sei moralisch und geistig minderwertig, während Männlichkeit mit Genie und Ethik verbunden sei. Obwohl Freud solche essentialistischen Thesen ablehnte, wurde Weininger oft fälschlich mit der Psychoanalyse assoziiert. Simone de Beauvoir kritisierte ihn scharf in „Das andere Geschlecht“."
+    },
+    {
+      "id": 3,
+      "quote": "Ich habe einen Hund geträumt, der einen Floh träumte, der wiederum einen kleineren Floh träumte… und so weiter bis ins Unendliche.",
+      "options": ["Niklas Luhmann", "Jorge Luis Borges", "Jacques Derrida", "Ludwig Wittgenstein"],
+      "correctAnswer": "Niklas Luhmann",
+      "explanation": "Ja – der berühmte Systemtheoretiker Niklas Luhmann notierte diesen Traum tatsächlich in seinen Zettelkasten. Er nutzte ihn als Metapher für rekursive Beobachtung: Jedes System beobachtet die Welt durch seine eigene Struktur, und diese Beobachtungen können wieder beobachtet werden – ad infinitum. Obwohl es wie ein literarischer Einfall klingt, stammt es aus Luhmanns wissenschaftlichem Archiv."
+    },
+    {
+      "id": 4,
+      "quote": "Der Kannibalismus ist eine Form der Gastfreundschaft.",
+      "options": ["Claude Lévi-Strauss", "Mary Douglas", "Marcel Mauss", "Georges Bataille"],
+      "correctAnswer": "Claude Lévi-Strauss",
+      "explanation": "In seinem Werk „Traurige Tropen“ reflektiert Lévi-Strauss über rituellen Kannibalismus. Er argumentiert, dass das Verspeisen des Feindes nicht bloß Aggression, sondern eine extreme Form der Aneignung und Integration darstellt – man nimmt den anderen buchstäblich in sich auf. In manchen Kulturen galt es sogar als Ehre, von Feinden verzehrt zu werden."
+    },
+    {
+      "id": 5,
+      "quote": "Die Bürokratie ist eine Maschine, die sich selbst als Zweck setzt.",
+      "options": ["Robert K. Merton", "Max Weber", "James C. Scott", "Hannah Arendt"],
+      "correctAnswer": "Robert K. Merton",
+      "explanation": "Obwohl Max Weber die Bürokratie als idealtypische Herrschaftsform analysierte, warnte er nicht explizit vor ihrer Selbstvergötzung. Diese prägnante Formulierung stammt von Robert K. Merton in seinem 1940 erschienenen Aufsatz „Bureaucratic Structure and Personality“. Merton zeigte, wie Bürokraten dazu neigen, Regeln zum Selbstzweck zu machen („trained incapacity“)."
+    },
+    {
+      "id": 6,
+      "quote": "Was ist ein Königreich ohne Volk? Ein Wald ohne Vögel.",
+      "options": ["Niccolò Machiavelli", "Thomas Hobbes", "Jean-Jacques Rousseau", "John Locke"],
+      "correctAnswer": "Niccolò Machiavelli",
+      "explanation": "Dieses poetische, aber seltene Zitat stammt aus Machiavellis „Discorsi sopra la prima deca di Tito Livio“ (Abhandlungen über die erste Dekade des Titus Livius). Es zeigt eine oft übersehene Seite Machiavellis: seine Überzeugung, dass die Macht des Fürsten letztlich auf der Zustimmung und dem Wohlwollen des Volkes beruht – ein Gedanke, der seinem Image als kalter Realist widerspricht."
+    },
+    {
+      "id": 7,
+      "quote": "Die moderne Gesellschaft produziert mehr Wahrscheinlichkeiten als Wahrheiten.",
+      "options": ["Niklas Luhmann", "Jürgen Habermas", "Ulrich Beck", "Zygmunt Bauman"],
+      "correctAnswer": "Niklas Luhmann",
+      "explanation": "Dies ist eine prägnante Zusammenfassung von Luhmanns Theorie der funktionalen Differenzierung. In komplexen Gesellschaften kann kein System (wie Wissenschaft oder Politik) absolute Wahrheit beanspruchen. Stattdessen operieren sie mit Wahrscheinlichkeiten, Risiken und Entscheidungen unter Unsicherheit. Die Wissenschaft produziert nicht Wahrheit, sondern wahrscheinliche Beschreibungen der Welt."
+    },
+    {
+      "id": 8,
+      "quote": "Neugierde ist ein Laster, das abwechselnd vom Christentum, von der Philosophie und sogar von einer bestimmten Auffassung der Wissenschaft verdammt worden ist.",
+      "options": ["Michel Foucault", "Gilles Deleuze", "Pierre Bourdieu", "Jacques Derrida"],
+      "correctAnswer": "Michel Foucault",
+      "explanation": "Foucault sagte dies in einem Interview mit der Zeitschrift „Libération“ (1984). Für ihn war Neugierde keine naive Fragerei, sondern eine aktive, kritische Haltung gegenüber dem, was als selbstverständlich gilt. Sie ist der Antrieb dafür, die historischen Bedingungen unseres Wissens und unserer Subjektivität zu hinterfragen – ein zentraler Gedanke seiner Genealogie."
+    },
+    {
+      "id": 9,
+      "quote": "Der Kapitalismus ist eine Religion.",
+      "options": ["Walter Benjamin", "Karl Marx", "Max Weber", "Theodor W. Adorno"],
+      "correctAnswer": "Walter Benjamin",
+      "explanation": "Dies ist der erste Satz eines frühen, fragmentarischen Textes von Walter Benjamin aus dem Jahr 1921. Benjamin argumentiert, dass der Kapitalismus nicht (wie bei Weber) aus dem Protestantismus hervorging, sondern selbst eine Religion ist – eine besonders grausame, weil sie Schuld erzeugt, ohne Erlösung zu versprechen. Ein radikaler und bis heute viel diskutierter Gedanke."
+    },
+    {
+      "id": 10,
+      "quote": "Es gibt nichts Gerechteres als eine gut gemachte Waage.",
+      "options": ["Mary Douglas", "Émile Durkheim", "Max Weber", "Talcott Parsons"],
+      "correctAnswer": "Mary Douglas",
+      "explanation": "Die britische Anthropologin Mary Douglas schrieb dies in ihrem Werk „Natural Symbols“. Für sie waren Symbole wie die Waage Ausdruck eines tiefen menschlichen Bedürfnisses nach Ordnung, Gerechtigkeit und Klarheit. Ihre Analyse zeigt, wie kulturelle Systeme durch solche starken Symbole strukturiert werden, um soziale Kohärenz herzustellen."
+    },
+    {
+      "id": 11,
+      "quote": "Die Barbarei beginnt dort, wo die Menschen aufhören, sich als Gäste auf der Erde zu fühlen.",
+      "options": ["Hannah Arendt", "Martin Heidegger", "Herbert Marcuse", "Simone Weil"],
+      "correctAnswer": "Hannah Arendt",
+      "explanation": "Arendt entwickelte diesen Gedanken in ihren späteren Werken, insbesondere in Bezug auf die Umweltzerstörung und den Verlust des Öffentlichen Raums. Für sie war das Gefühl, ein „Gast“ auf der Erde zu sein, eine Voraussetzung für Verantwortung und Sorge für die gemeinsame Welt. Wo dieses Gefühl verloren geht, beginnt eine neue Form der Barbarei."
+    },
+    {
+      "id": 12,
+      "quote": "Der Mensch ist nicht das Ergebnis einer Entwicklung, sondern das Produkt einer Erziehung.",
+      "options": ["Immanuel Kant", "Jean-Jacques Rousseau", "John Dewey", "Paulo Freire"],
+      "correctAnswer": "Immanuel Kant",
+      "explanation": "Dieser Satz fasst Kants pädagogische Überzeugung zusammen, wie er sie in seinen Vorlesungen zur Pädagogik äußerte. Für Kant ist der Mensch nicht durch Natur, sondern durch Kultur bestimmt. Ohne Erziehung, Disziplin und Unterweisung würde der Mensch nie zu seiner vollen moralischen und vernünftigen Bestimmung gelangen."
+    },
+    {
+      "id": 13,
+      "quote": "Die Mode ist die Waffe der Schwachen.",
+      "options": ["Georg Simmel", "Thorstein Veblen", "Pierre Bourdieu", "Roland Barthes"],
+      "correctAnswer": "Georg Simmel",
+      "explanation": "Der deutsche Soziologe Georg Simmel analysierte die Mode als soziologisches Phänomen. In seiner Sicht dient sie zwei entgegengesetzten Zwecken: der Imitation (um zur Gruppe zu gehören) und der Distinktion (um sich von ihr abzuheben). Für marginalisierte Gruppen, so Simmel, ist die Mode eine der wenigen Möglichkeiten, Aufmerksamkeit zu erregen und soziale Präsenz zu zeigen – daher eine „Waffe der Schwachen“."
+    },
+    {
+      "id": 14,
+      "quote": "Ein Bild ist ein Ding, das man mit den Augen denken kann.",
+      "options": ["Gottfried Wilhelm Leibniz", "Immanuel Kant", "Friedrich Schiller", "Arthur Schopenhauer"],
+      "correctAnswer": "Gottfried Wilhelm Leibniz",
+      "explanation": "Leibniz, der große Rationalist, hatte eine überraschend intuitive Vorstellung von Bildern. In seinen Notizen schrieb er, dass Bilder eine Form des Denkens sind, die nicht sprachlich, sondern visuell operiert. Dieser Gedanke ist bemerkenswert modern und vorwegnimmt spätere Theorien über visuelles Denken und mentale Repräsentationen."
+    },
+    {
+      "id": 15,
+      "quote": "Die Wissenschaft ist die systematische Entzauberung der Welt.",
+      "options": ["Max Weber", "Karl Popper", "Thomas Kuhn", "Paul Feyerabend"],
+      "correctAnswer": "Max Weber",
+      "explanation": "Dies ist eine der bekanntesten Formulierungen Webers aus seinem Vortrag „Wissenschaft als Beruf“. Mit der „Entzauberung“ meint er den Prozess, durch den magische, religiöse und mystische Erklärungen der Welt durch rationale, kausale und wissenschaftliche ersetzt werden. Die moderne Wissenschaft hinterlässt eine nüchterne, berechenbare, aber auch sinnentleerte Welt."
+    },
+    {
+      "id": 16,
+      "quote": "Der einzige wahre Fehler besteht darin, nicht aus seinem Irrtum zu lernen.",
+      "options": ["David Bohm", "Karl Popper", "Imre Lakatos", "Bertrand Russell"],
+      "correctAnswer": "David Bohm",
+      "explanation": "Obwohl dieser Gedanke oft fälschlicherweise Einstein zugeschrieben wird, stammt er vom Physiker und Philosophen David Bohm. In seinem Werk über den Dialog und das kreative Denken betonte er, dass Fehler unvermeidlich sind, aber nur dann problematisch, wenn sie nicht als Gelegenheit zum Lernen genutzt werden. Dies steht im Einklang mit seiner Kritik an starren Denkmustern."
+    },
+    {
+      "id": 17,
+      "quote": "Die Sprache ist ein Gefängnis, aus dem es kein Entrinnen gibt.",
+      "options": ["Jacques Derrida", "Michel Foucault", "Roland Barthes", "Julia Kristeva"],
+      "correctAnswer": "Jacques Derrida",
+      "explanation": "Derrida formulierte diese Idee im Rahmen seiner Dekonstruktion. Für ihn ist die Bedeutung niemals fest, sondern immer im Spiel der Differenzen zwischen Zeichen verankert. Wir sind in diesem Netz der Sprache gefangen, da wir außerhalb von Sprache nicht denken oder kommunizieren können. Jeder Versuch, eine endgültige Bedeutung zu fassen, bleibt innerhalb des Systems, das es hervorbringt."
+    },
+    {
+      "id": 18,
+      "quote": "Der Mensch ist ein symbolisches Tier.",
+      "options": ["Ernst Cassirer", "Claude Lévi-Strauss", "Susanne K. Langer", "Charles Sanders Peirce"],
+      "correctAnswer": "Ernst Cassirer",
+      "explanation": "Dies ist die zentrale These von Ernst Cassirers „Philosophie der symbolischen Formen“. Cassirer argumentiert, dass der Mensch sich nicht primär durch Vernunft (animal rationale) definiert, sondern durch seine Fähigkeit, Symbole zu schaffen und zu nutzen – in Sprache, Mythos, Kunst und Wissenschaft. Diese symbolische Tätigkeit ist die Grundlage aller Kultur."
+    },
+    {
+      "id": 19,
+      "quote": "Die Revolution frisst ihre eigenen Kinder.",
+      "options": ["Georg Büchner", "Maximilien de Robespierre", "Karl Marx", "Vladimir Lenin"],
+      "correctAnswer": "Georg Büchner",
+      "explanation": "Dieses berühmte Zitat stammt aus Büchners Drama „Dantons Tod“ (1835). Es beschreibt die Paranoia und Gewalt der Jakobinerherrschaft während der Französischen Revolution, insbesondere den Konflikt zwischen Danton und Robespierre. Die Aussage ist zu einem allgemeinen Aphorismus über die Selbstdynamik und Radikalisierung revolutionärer Bewegungen geworden."
+    },
+    {
+      "id": 20,
+      "quote": "Die Wahrheit ist eine Erfindung, die man nicht mehr entbehren kann.",
+      "options": ["Friedrich Nietzsche", "Michel Foucault", "Richard Rorty", "Donald Davidson"],
+      "correctAnswer": "Friedrich Nietzsche",
+      "explanation": "In seinen Nachlassfragmenten schrieb Nietzsche, dass die Wahrheit eine Illusion ist, von der wir vergessen haben, dass sie eine ist. Sie ist eine nützliche Fiktion, die für das soziale Zusammenleben und die Orientierung unverzichtbar geworden ist. Dieser Gedanke ist fundamental für seine Kritik an der abendländischen Metaphysik und ihrer Suche nach absoluten Wahrheiten."
+    },
+    {
+      "id": 21,
+      "quote": "Der Mensch ist das einzige Lebewesen, das arbeiten muss.",
+      "options": ["Hannah Arendt", "Karl Marx", "Herbert Marcuse", "José Ortega y Gasset"],
+      "correctAnswer": "Hannah Arendt",
+      "explanation": "In ihrem Hauptwerk „Vita Activa“ unterscheidet Arendt scharf zwischen Arbeit, Herstellen und Handeln. Die Arbeit (labor) ist der biologische Kreislauf der Selbsterhaltung, dem der Mensch als sterbliches Wesen unterworfen ist. Im Gegensatz zum Tier, das instinktiv agiert, ist der Mensch gezwungen, bewusst und planvoll zu arbeiten, um zu überleben – eine Last, die ihn von der Freiheit des Handelns ablenkt."
+    },
+    {
+      "id": 22,
+      "quote": "Die Gesellschaft ist ein Text, der gelesen werden muss.",
+      "options": ["Clifford Geertz", "Roland Barthes", "Paul Ricoeur", "Hayden White"],
+      "correctAnswer": "Clifford Geertz",
+      "explanation": "Der amerikanische Kulturanthropologe Clifford Geertz prägte den Begriff der „dichten Beschreibung“ (thick description). Für ihn ist Kultur nicht etwas, das man direkt beobachten kann, sondern ein Gewebe von Bedeutungen, das wie ein Text interpretiert werden muss. Der Anthropologe ist somit ein Interpret, kein Experimentator."
+    },
+    {
+      "id": 23,
+      "quote": "Der Fortschritt ist ein schlechter Ersatz für das Glück.",
+      "options": ["Theodor W. Adorno", "Walter Benjamin", "Herbert Marcuse", "Jürgen Habermas"],
+      "correctAnswer": "Theodor W. Adorno",
+      "explanation": "Adorno, einer der Hauptvertreter der Frankfurter Schule, war ein scharfer Kritiker des blinden Fortschrittsglaubens. In seinen „Minima Moralia“ und anderen Schriften argumentiert er, dass technischer und wissenschaftlicher Fortschritt nicht automatisch zu mehr menschlichem Glück oder Freiheit führt, sondern oft neue Formen der Unterdrückung und Entfremdung schafft."
+    },
+    {
+      "id": 24,
+      "quote": "Die Seele ist ein leerer Raum, in den die Gesellschaft ihre Zeichen hineinschreibt.",
+      "options": ["Émile Durkheim", "Sigmund Freud", "Jacques Lacan", "Louis Althusser"],
+      "correctAnswer": "Émile Durkheim",
+      "explanation": "Durkheim, der Vater der modernen Soziologie, vertrat in „Die Regeln der soziologischen Methode“ die Ansicht, dass soziale Tatsachen (faits sociaux) externe, zwanghafte Kräfte sind, die das Individuum formen. Die individuelle Psyche (die „Seele“) ist für ihn kein Ursprungsort, sondern das Produkt sozialer Einflüsse und kollektiver Repräsentationen."
+    },
+    {
+      "id": 25,
+      "quote": "Die größte List der Vernunft ist, uns glauben zu machen, dass sie unsere eigenen Gedanken seien.",
+      "options": ["Pierre Bourdieu", "Michel Foucault", "Louis Althusser", "Jürgen Habermas"],
+      "correctAnswer": "Pierre Bourdieu",
+      "explanation": "Dieser Satz fasst Bourdieus Konzept der „symbolischen Gewalt“ und der „Habitus“-Theorie perfekt zusammen. Der Habitus – das System internalisierter Dispositionen – lenkt unser Denken und Handeln so subtil, dass wir es für unsere freie, autonome Wahl halten. In Wirklichkeit reproduzieren wir jedoch die Strukturen der Gesellschaft, ohne es zu merken."
+    }
+    {
+  "questions": [
+    {
+      "id": 26,
+      "quote": "Ich weiß, dass ich nichts weiß.",
+      "options": ["Sokrates", "Platon", "Aristoteles", "Diogenes"],
+      "correctAnswer": "Sokrates",
+      "explanation": "Dieser Satz ist das berühmteste Beispiel für die sokratische Ironie. Obwohl er so oft Sokrates zugeschrieben wird, taucht er in dieser Form nicht wörtlich in Platons Dialogen auf. Vielmehr drückt er die Erkenntnis aus, dass wahre Weisheit darin besteht, die eigene Unwissenheit zu erkennen – ein Kerngedanke der sokratischen Methode."
+    },
+    {
+      "id": 27,
+      "quote": "Der Mensch ist ein politisches Tier.",
+      "options": ["Aristoteles", "Platon", "Cicero", "Seneca"],
+      "correctAnswer": "Aristoteles",
+      "explanation": "In seiner „Politik“ schreibt Aristoteles (Buch I, Kap. 2), dass der Mensch von Natur aus ein „zoon politikon“ sei – ein Wesen, das in einer Polis (Stadtgemeinschaft) leben muss, um sein volles Potenzial zu entfalten. Wer außerhalb der Gemeinschaft lebt, sei entweder ein Gott oder ein wildes Tier."
+    },
+    {
+      "id": 28,
+      "quote": "Geld ist die Galle des Lebens.",
+      "options": ["Diogenes", "Epikur", "Seneca", "Marc Aurel"],
+      "correctAnswer": "Diogenes",
+      "explanation": "Der kynische Philosoph Diogenes verachtete Reichtum und Konventionen. In einer Anekdote soll er gesagt haben, Geld sei „die Galle des Lebens“ – also etwas Bitteres, Giftiges, das den Menschen korrumpiert. Er lebte bewusst in Armut, um seine Freiheit zu bewahren, und provozierte sogar Alexander den Großen."
+    },
+    {
+      "id": 29,
+      "quote": "Wenn die Götter uns bestrafen wollen, erhören sie unsere Gebete.",
+      "options": ["Ovid", "Seneca", "Lukrez", "Horaz"],
+      "correctAnswer": "Ovid",
+      "explanation": "Dieses Zitat stammt aus Ovids „Metamorphosen“ (Buch III), wo es im Zusammenhang mit dem Schicksal des Königs Midas steht, der sich Gold wünschte – und damit sein eigenes Unglück heraufbeschwor. Es ist ein klassisches Beispiel für die griechisch-römische Vorstellung von Hybris und göttlicher Strafe durch Erfüllung eines vermeintlich guten Wunsches."
+    },
+    {
+      "id": 30,
+      "quote": "Nichts ist gerechter als das Gesetz, denn es ist der Wille der Götter.",
+      "options": ["Cicero", "Platon", "Aristoteles", "Justinian"],
+      "correctAnswer": "Cicero",
+      "explanation": "Cicero, römischer Staatsmann und Philosoph, vertrat in seinen Schriften wie „De Legibus“ (Vom Gesetz) die Idee des Naturrechts: wahres Recht entspringe nicht menschlichen Dekreten, sondern der Vernunft und dem göttlichen Kosmos. Für ihn war Gerechtigkeit untrennbar vom ewigen Gesetz der Götter."
+    },
+    {
+      "id": 31,
+      "quote": "Die Seele ist niemals still; sie tanzt, selbst wenn der Körper ruht.",
+      "options": ["Platon", "Plotin", "Epikur", "Mark Aurel"],
+      "correctAnswer": "Platon",
+      "explanation": "Dieser Gedanke durchzieht Platons Dialoge, besonders den „Phaidros“ und die „Politeia“. Die Seele ist für Platon unruhig, strebend, immer auf der Suche nach dem Guten und Schönen. Selbst im Schlaf oder in der Ruhe ist sie in Bewegung – hin zum Göttlichen. Der „Tanz“ ist eine Metapher für ihre dynamische Natur."
+    },
+    {
+      "id": 32,
+      "quote": "Liebe ist eine Krankheit, die nur der Geliebte heilen kann.",
+      "options": ["Platon", "Ovid", "Sappho", "Catullus"],
+      "correctAnswer": "Ovid",
+      "explanation": "In seinen „Amores“ und dem „Ars Amatoria“ beschreibt Ovid die Liebe als Leidenschaft, Raserei und Krankheit – aber auch als Spiel. Diese Aussage spiegelt die römische Auffassung wider, dass Liebeskummer real und körperlich spürbar ist, und nur die Gunst des/der Geliebten Linderung bringt."
+    },
+    {
+      "id": 33,
+      "quote": "Der Tod ist nichts für uns; denn was aufgelöst ist, empfindet nichts, und was nichts empfindet, ist nichts für uns.",
+      "options": ["Epikur", "Lukrez", "Seneca", "Mark Aurel"],
+      "correctAnswer": "Epikur",
+      "explanation": "Dies ist eine der zentralen Lehren des Epikureismus, überliefert in seinem Brief an Menoikeus. Epikur argumentiert, dass der Tod kein Grund zur Furcht ist, weil wir ihn nicht erleben: solange wir leben, ist der Tod nicht da; sobald der Tod da ist, sind wir nicht mehr. Diese Logik sollte Angst vor dem Sterben nehmen."
+    },
+    {
+      "id": 34,
+      "quote": "Was du nicht willst, dass man dir tu’, das füg’ auch keinem andern zu.",
+      "options": ["Seneca", "Cicero", "Jesus", "Isokrates"],
+      "correctAnswer": "Isokrates",
+      "explanation": "Obwohl diese Regel oft dem Neuen Testament zugeschrieben wird, formulierte sie bereits der athenische Redner Isokrates (436–338 v. Chr.) in seiner Rede „An Nikokles“: „Do not do to others what you would not want done to yourself.“ Dies zeigt, dass die goldene Regel eine universelle ethische Intuition der Antike war – lange vor dem Christentum."
+    },
+    {
+      "id": 35,
+      "quote": "Die Zeit frisst alle Dinge.",
+      "options": ["Ovid", "Vergil", "Horaz", "Lukrez"],
+      "correctAnswer": "Ovid",
+      "explanation": "In den „Metamorphosen“ (Buch XV) schreibt Ovid: „Tempus edax rerum“ – „Die Zeit, die alles verzehrt“. Damit beschreibt er die unaufhaltsame Macht der Zeit, die selbst die mächtigsten Reiche, Städte und Götterbilder zerstört. Nur die Dichtung, so hofft er, könne der Zeit trotzen."
+    },
+    {
+      "id": 36,
+      "quote": "Ein Haus voller Bücher ist ein Haus voller Seelen.",
+      "options": ["Cicero", "Seneca", "Plinius der Jüngere", "Mark Aurel"],
+      "correctAnswer": "Cicero",
+      "explanation": "Cicero, leidenschaftlicher Leser und Sammler, sah in Büchern nicht nur Wissen, sondern lebendige Geister. In einem Brief an Atticus schreibt er, dass Bücher ihm Gesellschaft leisten, wenn Freunde fern sind. Für ihn war die Bibliothek ein Ort der Begegnung mit den großen Denkern der Vergangenheit."
+    },
+    {
+      "id": 37,
+      "quote": "Die Natur flieht das Vakuum.",
+      "options": ["Aristoteles", "Archimedes", "Demokrit", "Ptolemäus"],
+      "correctAnswer": "Aristoteles",
+      "explanation": "Dieser Satz fasst Aristoteles’ Ablehnung des leeren Raums zusammen. In seiner Physik argumentiert er, dass ein Vakuum unmöglich sei, weil Bewegung darin keinen Sinn ergäbe. Diese These prägte die Naturphilosophie bis ins 17. Jahrhundert – obwohl Atomisten wie Demokrit das Vakuum gerade als Voraussetzung für Bewegung ansahen."
+    },
+    {
+      "id": 38,
+      "quote": "Ich bin ein Mensch; nichts Menschliches ist mir fremd.",
+      "options": ["Terenz", "Seneca", "Plautus", "Cicero"],
+      "correctAnswer": "Terenz",
+      "explanation": "Dieses berühmte Zitat stammt aus dem Prolog des Komödienstücks „Heauton Timorumenos“ (Der Sich-selbst-Bestrafende) des römischen Dichters Terenz (2. Jh. v. Chr.). Es drückt eine humanistische Haltung aus: Der Dichter rechtfertigt, dass er menschliche Schwächen auf der Bühne zeigt – denn sie gehören zur menschlichen Natur."
+    },
+    {
+      "id": 39,
+      "quote": "Die Wahrheit liegt im Brunnen.",
+      "options": ["Demokrit", "Heraklit", "Platon", "Diogenes"],
+      "correctAnswer": "Demokrit",
+      "explanation": "Demokrit, der Atomist, soll gesagt haben: „Die Wahrheit liegt im Brunnen“ (aletheia en phreati). Damit meinte er, dass die Wahrheit tief verborgen ist – wie am Grund eines Brunnens – und nur durch sorgfältige Untersuchung und Vernunft ans Licht gebracht werden kann. Eine Metapher für die Schwierigkeit der Erkenntnis."
+    },
+    {
+      "id": 40,
+      "quote": "Glück ist nichts anderes als ein guter Charakter.",
+      "options": ["Mark Aurel", "Epikur", "Seneca", "Aristoteles"],
+      "correctAnswer": "Mark Aurel",
+      "explanation": "Der römische Kaiser und Stoiker Mark Aurel schreibt in seinen „Selbstbetrachtungen“, dass äußerer Reichtum, Ruhm oder Macht nicht glücklich machen. Wahres Glück (eudaimonia) entspringt allein einem tugendhaften, vernünftigen und innerlich freien Charakter – unabhängig von äußeren Umständen."
+    },
+    {
+      "id": 41,
+      "quote": "Krieg ist der Vater aller Dinge.",
+      "options": ["Heraklit", "Thukydides", "Homer", "Platon"],
+      "correctAnswer": "Heraklit",
+      "explanation": "Heraklit von Ephesos (um 500 v. Chr.) sah im Kampf (polemos) das schöpferische Prinzip der Welt. In Fragment 53 heißt es: „Polemos panton men pater esti…“ – „Der Krieg ist Vater aller Dinge und König aller.“ Damit meinte er nicht nur militärischen Krieg, sondern den ständigen Konflikt der Gegensätze, aus dem alles entsteht und vergeht."
+    },
+    {
+      "id": 42,
+      "quote": "Die Götter helfen denen, die sich selbst helfen.",
+      "options": ["Sophokles", "Euripides", "Aischylos", "Menander"],
+      "correctAnswer": "Sophokles",
+      "explanation": "Obwohl diese Maxime heute als allgemeines Sprichwort gilt, findet sie sich in ähnlicher Form bei Sophokles: In „Ajax“ sagt Odysseus, dass die Götter nur dem beistehen, der bereit ist, für sich selbst zu kämpfen. Dies spiegelt die griechische Auffassung wider, dass göttliche Gnade menschliche Anstrengung voraussetzt."
+    },
+    {
+      "id": 43,
+      "quote": "Die Kunst ahmt die Natur nach.",
+      "options": ["Aristoteles", "Platon", "Vitruv", "Horaz"],
+      "correctAnswer": "Aristoteles",
+      "explanation": "In seiner „Poetik“ verteidigt Aristoteles die Dichtkunst gegen Platons Verdammung. Während Platon Kunst als bloße Nachahmung einer Nachahmung (der Ideen) ablehnte, sah Aristoteles in der Mimesis (Nachahmung) eine natürliche menschliche Tätigkeit, die Erkenntnis ermöglicht. Die Kunst ahmt nicht sklavisch nach, sondern ordnet und vervollkommnet die Natur."
+    },
+    {
+      "id": 44,
+      "quote": "Ich hasse und liebe zugleich. Vielleicht fragst du, wie das möglich ist? Ich weiß es nicht, aber ich fühle es – und es zerreißt mich.",
+      "options": ["Catullus", "Sappho", "Ovid", "Properz"],
+      "correctAnswer": "Catullus",
+      "explanation": "Dies ist der berühmte Beginn von Catullus’ Gedicht 85 („Odi et amo“). Mit nur zwei Zeilen drückt der römische Dichter die Qual widersprüchlicher Gefühle gegenüber seiner Geliebten Lesbia aus. Es ist eines der intensivsten Liebesgedichte der Antike – und ein Meisterwerk der Knappheit."
+    },
+    {
+      "id": 45,
+      "quote": "Die größte Waffe ist die Zeit.",
+      "options": ["Perikles", "Thukydides", "Xenophon", "Plutarch"],
+      "correctAnswer": "Perikles",
+      "explanation": "In der berühmten Grabrede, die Thukydides dem athenischen Staatsmann Perikles in den Mund legt, heißt es: „Die Zeit ist der beste Ratgeber in der Not.“ Perikles argumentiert, dass Athen im Peloponnesischen Krieg nicht durch Heldentum, sondern durch Geduld, Strategie und Ausdauer siegen werde – eine kluge, langfristige Politik statt impulsive Aktion."
+    },
+    {
+      "id": 46,
+      "quote": "Ein Schiff ohne Steuermann ist dem Untergang geweiht.",
+      "options": ["Platon", "Aristoteles", "Cicero", "Seneca"],
+      "correctAnswer": "Platon",
+      "explanation": "In der „Politeia“ (Buch VI) vergleicht Platon den Philosophen mit einem Steuermann, der das Schiff des Staates sicher durch die Stürme lenkt. Ohne philosophische Führung, so warnt er, wird die Polis wie ein Schiff ohne Steuermann hilflos treiben und untergehen. Dies ist Teil seiner Begründung für die Herrschaft der Philosophenkönige."
+    },
+    {
+      "id": 47,
+      "quote": "Die Freiheit beginnt dort, wo das Gesetz endet.",
+      "options": ["Cicero", "Seneca", "Mark Aurel", "Lukrez"],
+      "correctAnswer": "Cicero",
+      "explanation": "Cicero vertrat in seinen politischen Schriften eine republikanische Auffassung von Freiheit: wahre Freiheit existiert nicht jenseits des Gesetzes, sondern *durch* das Gesetz. Das Zitat ist oft falsch zitiert; Cicero meinte vielmehr: „Libertas in legibus“ – Freiheit *liegt in den Gesetzen*. Die hier angegebene Formulierung ist eine moderne Verkehrung, doch sie wird ihm fälschlicherweise oft zugeschrieben – daher die Kuriosität."
+    },
+    {
+      "id": 48,
+      "quote": "Der Anfang ist mehr als die Hälfte des Ganzen.",
+      "options": ["Aristoteles", "Hesiod", "Platon", "Isokrates"],
+      "correctAnswer": "Hesiod",
+      "explanation": "Dieser Satz stammt aus Hesiods „Werke und Tage“ (Vers 670). Er ermahnt den Leser, nicht zu zögern, sondern sofort mit der Arbeit zu beginnen – denn der erste Schritt ist der schwierigste und entscheidendste. Diese pragmatische Weisheit wurde später von Aristoteles und anderen oft zitiert."
+    },
+    {
+      "id": 49,
+      "quote": "Die Seele sieht, wenn die Augen blind sind.",
+      "options": ["Platon", "Plotin", "Seneca", "Mark Aurel"],
+      "correctAnswer": "Platon",
+      "explanation": "In Platons Höhlengleichnis (Politeia, Buch VII) wird deutlich, dass die physischen Augen trügen, während die Seele die wahre Wirklichkeit (die Ideen) erkennen kann. Die Sinne zeigen nur Schatten; die Seele aber, wenn sie sich der Philosophie zuwendet, sieht das Licht der Wahrheit – gerade dann, wenn sie sich von der sinnlichen Welt abwendet."
+    },
+    {
+      "id": 50,
+      "quote": "Was ist der Mensch? Ein Hauch, ein Schatten, ein Traum.",
+      "options": ["Sophokles", "Euripides", "Aischylos", "Menander"],
+      "correctAnswer": "Sophokles",
+      "explanation": "In der Tragödie „Ajax“ lässt Sophokles den Chor singen: „Was ist der Mensch? Ein Nichts. Ein Hauch. Ein Schatten.“ Diese existenzielle Bescheidenheit durchzieht die griechische Tragödie: Der Mensch ist sterblich, vergänglich und von den Göttern abhängig. Trotz seines Stolzes bleibt er letztlich ein Traum – ein Motiv, das auch in Shakespeares „The Tempest“ wiederkehrt."
+    }
+
+    {
+  "questions": [
+    {
+      "id": 51,
+      "quote": "Gott würfelt nicht.",
+      "options": ["Albert Einstein", "Niels Bohr", "Werner Heisenberg", "Erwin Schrödinger"],
+      "correctAnswer": "Albert Einstein",
+      "explanation": "Einstein äußerte diesen berühmten Satz in einem Brief an Max Born (1926), um seinen Widerstand gegen die probabilistische Interpretation der Quantenmechanik zu bekunden. Für ihn war das Universum deterministisch; Zufall war nur Ausdruck menschlicher Unkenntnis. Niels Bohr soll geantwortet haben: „Einstein, hör auf, Gott vorzuschreiben, was er tun soll!“"
+    },
+    {
+      "id": 52,
+      "quote": "Die Mathematik ist die Königin der Wissenschaften, und die Zahlentheorie ist die Königin der Mathematik.",
+      "options": ["Carl Friedrich Gauss", "Leonhard Euler", "David Hilbert", "Kurt Gödel"],
+      "correctAnswer": "Carl Friedrich Gauss",
+      "explanation": "Gauss, einer der größten Mathematiker aller Zeiten, vertrat diese Ansicht in privaten Gesprächen und Briefen. Er sah in der reinen Mathematik – besonders in der Zahlentheorie – die edelste Form des Denkens, frei von empirischen Zwängen. Sein Werk „Disquisitiones Arithmeticae“ begründete die moderne Zahlentheorie."
+    },
+    {
+      "id": 53,
+      "quote": "Alles, was nicht verboten ist, ist zwingend.",
+      "options": ["Murray Gell-Mann", "Richard Feynman", "Paul Dirac", "Wolfgang Pauli"],
+      "correctAnswer": "Murray Gell-Mann",
+      "explanation": "Dies ist eine humorvolle Umkehrung des berühmten Satzes von T.H. White („Alles, was nicht verboten ist, ist erlaubt“). Gell-Mann, Nobelpreisträger für Physik, prägte diese Formulierung im Kontext der Teilchenphysik: In der Quantenwelt geschieht alles, was nicht durch Symmetrien oder Erhaltungssätze explizit verboten ist – und zwar mit einer gewissen Wahrscheinlichkeit."
+    },
+    {
+      "id": 54,
+      "quote": "Wenn ich einen Satz beweisen könnte, indem ich ihn mathematisch ableite, aber gleichzeitig beobachtete, dass er in der Natur falsch ist, so wäre die Mathematik nutzlos.",
+      "options": ["Galileo Galilei", "Isaac Newton", "Johannes Kepler", "René Descartes"],
+      "correctAnswer": "Galileo Galilei",
+      "explanation": "Galilei betonte in seinen „Dialogen über die zwei Weltsysteme“, dass die Natur das letzte Kriterium der Wahrheit sei – nicht die Logik allein. Für ihn war die Mathematik die Sprache der Natur, aber sie musste stets durch Beobachtung und Experiment bestätigt werden. Dies markiert den Beginn der modernen empirischen Wissenschaft."
+    },
+    {
+      "id": 55,
+      "quote": "Das Universum ist nicht nur seltsamer, als wir uns vorstellen können – es ist seltsamer, als wir uns überhaupt vorstellen können.",
+      "options": ["J.B.S. Haldane", "Stephen Hawking", "Carl Sagan", "Richard Dawkins"],
+      "correctAnswer": "J.B.S. Haldane",
+      "explanation": "Der britische Biologe und Genetiker J.B.S. Haldane schrieb dies 1927 in einem Essay über außerirdisches Leben. Er wollte damit ausdrücken, dass unsere Vorstellungskraft durch die Evolution auf irdische Verhältnisse beschränkt ist. Das Zitat wurde später oft fälschlich Hawking oder Sagan zugeschrieben."
+    },
+    {
+      "id": 56,
+      "quote": "Ich habe keine besonderen Talente. Ich bin nur leidenschaftlich neugierig.",
+      "options": ["Albert Einstein", "Marie Curie", "Charles Darwin", "Nikola Tesla"],
+      "correctAnswer": "Albert Einstein",
+      "explanation": "Einstein schrieb diesen Satz in einem Brief an einen Schuljungen im Jahr 1952. Es war seine bescheidene Antwort auf die Frage, wie er so viel erreichen konnte. Für ihn war Neugier der treibende Motor aller wissenschaftlichen Entdeckung – nicht Genie im herkömmlichen Sinne."
+    },
+    {
+      "id": 57,
+      "quote": "Die Natur macht keine Sprünge.",
+      "options": ["Gottfried Wilhelm Leibniz", "Isaac Newton", "Carl Linnaeus", "Georges Cuvier"],
+      "correctAnswer": "Gottfried Wilhelm Leibniz",
+      "explanation": "Leibniz formulierte das Prinzip „Natura non facit saltus“ („Die Natur macht keine Sprünge“) als philosophisches Fundament seiner Infinitesimalrechnung. Es drückt die Überzeugung aus, dass alle natürlichen Prozesse kontinuierlich und graduell verlaufen – eine Annahme, die erst durch die Quantenphysik im 20. Jahrhundert widerlegt wurde."
+    },
+    {
+      "id": 58,
+      "quote": "Was mich betrifft, so hasse ich die Chemie; sie ist nichts als ein Gewerbe, das uns mit unreinen Substanzen beschäftigt.",
+      "options": ["Antoine Lavoisier", "Robert Boyle", "Jöns Jacob Berzelius", "Dmitri Mendelejew"],
+      "correctAnswer": "Antoine Lavoisier",
+      "explanation": "Paradoxerweise stammt dieses Zitat vom „Vater der modernen Chemie“ selbst. Lavoisier kritisierte die Alchemie und die damalige Praxis der Chemie als handwerklich und unpräzise. Sein Ziel war es, die Chemie zu einer exakten Wissenschaft zu machen – durch quantitative Messung, klare Nomenklatur und das Gesetz der Massenerhaltung."
+    },
+    {
+      "id": 59,
+      "quote": "Gebt mir Materie, und ich will daraus eine Welt bauen.",
+      "options": ["Immanuel Kant", "Pierre-Simon Laplace", "Isaac Newton", "René Descartes"],
+      "correctAnswer": "Immanuel Kant",
+      "explanation": "In seiner „Allgemeinen Naturgeschichte und Theorie des Himmels“ (1755) schrieb Kant diesen kühnen Satz. Er meinte damit, dass aus einfachen Naturgesetzen und chaotischer Materie allein durch mechanische Kräfte (wie Gravitation) ein geordnetes Sonnensystem entstehen könne – eine frühe Version der Nebularhypothese."
+    },
+    {
+      "id": 60,
+      "quote": "Der Mensch ist ein aufrechter Affe, der sich für einen Engel hält.",
+      "options": ["Thomas Henry Huxley", "Charles Darwin", "Ernst Haeckel", "Alfred Russel Wallace"],
+      "correctAnswer": "Thomas Henry Huxley",
+      "explanation": "Huxley, genannt „Darwins Bulldogge“, war ein scharfer Verteidiger der Evolutionstheorie. In Vorträgen und Schriften provozierte er das viktorianische Publikum mit solchen Formulierungen, um die Abstammung des Menschen vom Tier zu unterstreichen. Er sah im Menschen kein göttliches Wesen, sondern ein hochentwickeltes Säugetier."
+    },
+    {
+      "id": 61,
+      "quote": "Meine Theorie ist so schön, dass sie wahr sein muss.",
+      "options": ["Paul Dirac", "Albert Einstein", "Werner Heisenberg", "Erwin Schrödinger"],
+      "correctAnswer": "Paul Dirac",
+      "explanation": "Dirac, einer der Begründer der Quantenmechanik, legte großen Wert auf mathematische Schönheit. Als er seine relativistische Wellengleichung für das Elektron entwickelte, war er von ihrer Eleganz so überzeugt, dass er an ihre Richtigkeit glaubte – noch bevor experimentelle Beweise (wie die Entdeckung des Positrons) vorlagen."
+    },
+    {
+      "id": 62,
+      "quote": "Die wichtigste Eigenschaft eines wissenschaftlichen Instruments ist, dass es funktioniert.",
+      "options": ["Richard Feynman", "Niels Bohr", "Marie Curie", "Michael Faraday"],
+      "correctAnswer": "Richard Feynman",
+      "explanation": "Feynman, bekannt für seine pragmatische und zugleich tiefgründige Herangehensweise, betonte oft, dass Theorie und Experiment Hand in Hand gehen müssen. In seinen Vorlesungen sagte er, dass ein Instrument, egal wie elegant, nutzlos ist, wenn es nicht zuverlässig misst – ein Plädoyer für handwerkliche Präzision in der Wissenschaft."
+    },
+    {
+      "id": 63,
+      "quote": "Das Leben ist nichts anderes als ein elektrisches Phänomen.",
+      "options": ["Luigi Galvani", "Alessandro Volta", "Michael Faraday", "Humphry Davy"],
+      "correctAnswer": "Luigi Galvani",
+      "explanation": "Galvani entdeckte Ende des 18. Jahrhunderts, dass Froschschenkel zucken, wenn man sie mit Metall berührt – er nannte dies „tierische Elektrizität“. Für ihn war dies Beweis, dass das Leben selbst elektrischer Natur sei. Volta widersprach ihm und erfand daraufhin die Batterie, um zu zeigen, dass die Elektrizität vom Metall kam, nicht vom Tier."
+    },
+    {
+      "id": 64,
+      "quote": "Ich denke, da bin ich.",
+      "options": ["René Descartes", "Immanuel Kant", "Gottfried Wilhelm Leibniz", "Baruch Spinoza"],
+      "correctAnswer": "René Descartes",
+      "explanation": "Obwohl der berühmte Satz auf Lateinisch lautet „Cogito, ergo sum“, fasst „Ich denke, da bin ich“ den Kern von Descartes’ erkenntnistheoretischem Neubeginn in den „Meditationen“ (1641) treffend zusammen. Selbst wenn alles täuscht, muss etwas existieren, das getäuscht wird – das denkende Ich."
+    },
+    {
+      "id": 65,
+      "quote": "Die Mathematik ist ein Spiel, das man nach willkürlichen Regeln spielt.",
+      "options": ["David Hilbert", "Kurt Gödel", "Henri Poincaré", "Bertrand Russell"],
+      "correctAnswer": "David Hilbert",
+      "explanation": "Hilbert, führender Vertreter des Formalismus, sah die Mathematik als ein System formaler Zeichen und Regeln. In seinem Programm wollte er zeigen, dass alle mathematischen Wahrheiten innerhalb eines widerspruchsfreien Axiomensystems ableitbar sind. Gödels Unvollständigkeitssätze (1931) zeigten jedoch, dass dieses Ziel unerreichbar ist."
+    },
+    {
+      "id": 66,
+      "quote": "Wenn du die Quantenmechanik verstanden hast, dann hast du sie nicht verstanden.",
+      "options": ["Niels Bohr", "Richard Feynman", "Werner Heisenberg", "Erwin Schrödinger"],
+      "correctAnswer": "Niels Bohr",
+      "explanation": "Bohr, einer der Hauptarchitekten der Kopenhagener Deutung, betonte immer wieder, dass die Quantenwelt unserer Alltagserfahrung widerspricht. Wahre Einsicht bestehe darin, die Paradoxien zu akzeptieren, statt sie wegzuerklären. Ähnliche Formulierungen stammen auch von Feynman, doch der Geist dieser Aussage ist zutiefst bohrschen Ursprungs."
+    },
+    {
+      "id": 67,
+      "quote": "Die Natur ist grausam, aber gerecht.",
+      "options": ["Charles Darwin", "Alfred Russel Wallace", "Thomas Malthus", "Herbert Spencer"],
+      "correctAnswer": "Charles Darwin",
+      "explanation": "In Briefen und Notizen beschrieb Darwin die Natur als „rotzahnig und blutig“ (red in tooth and claw), aber nicht willkürlich. Die natürliche Selektion wirkt gnadenlos, belohnt aber konsequent jene, die am besten an ihre Umwelt angepasst sind. Diese „Gerechtigkeit“ ist jedoch rein mechanisch – ohne moralische Absicht."
+    },
+    {
+      "id": 68,
+      "quote": "Ein Physiker ist jemand, der mit zweifelhaften Methoden zu sicheren Ergebnissen kommt. Ein Mathematiker ist jemand, der mit sicheren Methoden zu zweifelhaften Ergebnissen kommt.",
+      "options": ["Albert Einstein", "Werner Heisenberg", "David Hilbert", "John von Neumann"],
+      "correctAnswer": "Werner Heisenberg",
+      "explanation": "Heisenberg, selbst Physiker und Mathematiker, machte diese ironische Bemerkung in einem Vortrag über die Beziehung zwischen beiden Disziplinen. Sie spiegelt die Spannung wider: Physiker nutzen oft intuitive, nicht-rigorose Mathematik, um empirisch überprüfbare Resultate zu erzielen; Mathematiker hingegen streben nach logischer Reinheit, auch wenn die Anwendung unklar bleibt."
+    },
+    {
+      "id": 69,
+      "quote": "Die Atome sind wie kleine Sonnensysteme.",
+      "options": ["Ernest Rutherford", "Niels Bohr", "J.J. Thomson", "James Chadwick"],
+      "correctAnswer": "Ernest Rutherford",
+      "explanation": "Nach seinem Goldfolienexperiment (1911) schloss Rutherford, dass das Atom einen winzigen, positiv geladenen Kern hat, um den sich Elektronen wie Planeten um die Sonne bewegen. Dieses „planetarische Modell“ war revolutionär, hatte aber ein Problem: klassische Physik sagt voraus, dass die Elektronen dabei Energie verlieren und in den Kern stürzen müssten. Bohr löste das später mit Quantenhypothese."
+    },
+    {
+      "id": 70,
+      "quote": "Gott hat die ganzen Zahlen erschaffen; alles andere ist Menschenwerk.",
+      "options": ["Leopold Kronecker", "Georg Cantor", "David Hilbert", "Kurt Gödel"],
+      "correctAnswer": "Leopold Kronecker",
+      "explanation": "Kronecker, ein konservativer Mathematiker des 19. Jahrhunderts, lehnte Cantors Theorie der transfiniten Mengen und irrationale Zahlen ab. Für ihn waren nur die natürlichen Zahlen fundamental. Dieses Zitat fasst seine philosophische Haltung gegenüber der Mathematik als einer Disziplin, die sich an göttlicher Einfachheit orientieren sollte."
+    },
+    {
+      "id": 71,
+      "quote": "Der Zufall ist nur ein Maß für unser Unwissen.",
+      "options": ["Pierre-Simon Laplace", "Carl Friedrich Gauss", "Henri Poincaré", "Albert Einstein"],
+      "correctAnswer": "Pierre-Simon Laplace",
+      "explanation": "Laplace formulierte in seiner „Philosophischen Abhandlung über die Wahrscheinlichkeit“ (1814) das Ideal des deterministischen Universums: Wenn ein Intellekt (der „Laplacesche Dämon“) alle Kräfte und Positionen kennt, kann er die Zukunft vollständig berechnen. Wahrscheinlichkeit ist dann nur ein Hilfsmittel für begrenzte Geister."
+    },
+    {
+      "id": 72,
+      "quote": "Die Wissenschaft beginnt mit dem Staunen.",
+      "options": ["Aristoteles", "Platon", "Thales", "Hippokrates"],
+      "correctAnswer": "Aristoteles",
+      "explanation": "In der „Metaphysik“ schreibt Aristoteles: „Es ist durch Staunen, dass die Menschen jetzt wie ehedem zur Philosophie kamen.“ Für ihn war das Erstaunen über die Natur der erste Antrieb, nach Ursachen und Prinzipien zu suchen – der Ursprung sowohl der Philosophie als auch der Naturwissenschaft."
+    },
+    {
+      "id": 73,
+      "quote": "Ich habe einen Fehler gemacht, aber das ist Wissenschaft.",
+      "options": ["Richard Feynman", "Carl Sagan", "Stephen Hawking", "Marie Curie"],
+      "correctAnswer": "Richard Feynman",
+      "explanation": "Feynman betonte in seinen Vorlesungen und Interviews immer wieder, dass Irrtum integral zum wissenschaftlichen Prozess gehört. Wichtig sei nicht, niemals zu irren, sondern Fehler ehrlich zuzugeben, zu korrigieren und daraus zu lernen. Diese Haltung ist zentral für die wissenschaftliche Integrität."
+    },
+    {
+      "id": 74,
+      "quote": "Die Biologie ist die Physik des 21. Jahrhunderts.",
+      "options": ["Freeman Dyson", "Stephen Hawking", "Eric Lander", "Craig Venter"],
+      "correctAnswer": "Freeman Dyson",
+      "explanation": "Der theoretische Physiker Freeman Dyson prophezeite Ende des 20. Jahrhunderts, dass die Biologie das neue Zentrum der wissenschaftlichen Revolution werden würde – analog zur Rolle der Physik im 20. Jahrhundert. Mit dem Humangenomprojekt und der synthetischen Biologie scheint sich diese Vision zu erfüllen."
+    },
+    {
+      "id": 75,
+      "quote": "Man sieht nur, was man weiß.",
+      "options": ["Johann Wolfgang von Goethe", "Alexander von Humboldt", "Justus von Liebig", "Carl Friedrich Gauss"],
+      "correctAnswer": "Johann Wolfgang von Goethe",
+      "explanation": "Goethe, obwohl Dichter, war auch ein ernsthafter Naturforscher (Farbenlehre, Morphologie). Dieser Satz fasst seine erkenntnistheoretische Haltung zusammen: Beobachtung ist nie neutral, sondern geprägt vom Vorwissen des Beobachters. Dieser Gedanke ist heute in der Wissenschaftstheorie (z. B. bei Thomas Kuhn) fundamental."
+    }
+  ]
+}
+  ]
+}
+  ]
+}
